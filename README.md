@@ -1,5 +1,7 @@
-### Hi there 👋
-
+Hello,
+I'm currently working as Civil Engineer my first graduation.
+I'm starting a new graduation in Software Engineering an Machine Learnig.
+I'm currently learning about Git and Github.
 <!--
 **pedromichelan/pedromichelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
